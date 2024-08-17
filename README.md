@@ -22,4 +22,4 @@ This is the first version of my personal portfolio website. It showcases my skil
 
 Clone the repository:
    ```bash
-   git clone https://github.com/TechnoTinker-og/Portfolio-V1.git
+   git clone [https://github.com/fnnetwork/electraop]
