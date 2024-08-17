@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}Contact - Techno Tinker{% endblock %}
+
+{% block content %}
+<div class="contact-section">
+    <h1 class="contact-title">Contact Me</h1>
+    <div class="contact-grid">
+        <div class="contact-box animate-box">
+            <h2>Discord Profile</h2>
+            <p><strong>Name:</strong> Eʟᴇᴄᴛʀᴀ Oᴘ ☭</p>
+            <p><strong>Username:</strong> ElectraOp.</p>
+            <p><strong>User ID:</strong> Dont Know</p>
+        </div>
+        <div class="contact-box animate-box">
+            <h2>Telegram Profile</h2>
+            <p><strong>Name:</strong> 𓆰𝅃꯭᳚⚡!! ⏤͟͟͞͞𝐅ɴ x EʟᴇᴄᴛʀᴀOᴘ𓆪𓆪⏤͟͞➤⃟🔥✘</p>
+            <p><strong>Username:</strong> @FNxOwner</p>
+            <p><strong>User ID:</strong> 6558098741</p>
+        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer>
+    <p>Coded by <span>Eʟᴇᴄᴛʀᴀ Oᴘ</span> using <span>Flask & Python</span></p>
+    <p>© 2024 Eʟᴇᴄᴛʀᴀ Oᴘ</p>
+</footer>
+
+<script>
+    // Add animation delay to each contact box
+    document.querySelectorAll('.contact-box').forEach((box, index) => {
+        box.style.transitionDelay = `${index * 0.3}s`;
+    });
+</script>
+{% endblock %}
