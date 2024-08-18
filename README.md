@@ -1,4 +1,4 @@
-Visit my portfolio live at: https://www.techno-tinker.com
+Visit my portfolio live at: http://103.248.61.249:10000
 
 
 # Portfolio V1
