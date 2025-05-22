@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Contact - Techno Tinker{% endblock %}
+{% block title %}Contact - Gaurav Kumar{% endblock %}
 
 {% block content %}
 <div class="contact-section">
@@ -9,16 +9,16 @@
     <div class="contact-grid">
         <div class="contact-box">
             <h2>Discord Profile</h2>
-            <p><strong>Name:</strong> Techno Tinker ☭</p>
-            <p><strong>Username:</strong> technotinker.</p>
+            <p><strong>Name:</strong> Gaurav Kumar ☭</p>
+            <p><strong>Username:</strong> Gaurav.</p>
             <p><strong>User ID:</strong> 1212657148215959612</p>
         </div>
 
         <div class="contact-box">
             <h2>Telegram Profile</h2>
-            <p><strong>Name:</strong> Eʟᴇᴄᴛʀᴀ Oᴘ</p>
-            <p><strong>Username:</strong> @FNxOwner</p>
-            <p><strong>User ID:</strong> 6558098741</p>
+            <p><strong>Name:</strong> Gᴀᴜʀᴀᴠ Kᴜᴍᴀʀ</p>
+            <p><strong>Username:</strong> @FNxROMAN</p>
+            <p><strong>User ID:</strong> 6593610568</p>
         </div>
     </div>
 </div>
